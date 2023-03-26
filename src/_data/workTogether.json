@@ -1,11 +1,11 @@
 {
   "heading":"LET’S WORK TOGETHER",
   "submitBtn":{
-    "btnText":"Submit Query",
+    "btnText":"Message Me",
     "btnLink":"contact"
   },
   "convBtn":{
-    "btnText":"Not Convinced",
+    "btnText":"View Projects",
     "btnLink":"portfolio"
   }
 }

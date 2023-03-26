@@ -1,21 +1,21 @@
 {
-  "title": "The Proof is in the Pudding!",
+  "title": "Education Overview",
   "achievements":[
     {
-      "title": "Happy Clients",
-      "counter": "253"
+      "title": "Degree",
+      "counter": "Bachelor of Science in Integrative Informatics"
     },
     {
-      "title": "Projects Completed",
-      "counter": "111"
+      "title": "Concentrations",
+      "counter": "Media and Visual Production, Marketing and Enterprise"
     },
     {
-      "title": "Cups of coffee",
-      "counter": "351"
+      "title": "Grade Point Adverage",
+      "counter": "3.85"
     },
     {
-      "title": "Telephone Talks",
-      "counter": "740"
+      "title": "Honors / Awards",
+      "counter": "Magna Cum Laude Honors"
     }
   ]
 }

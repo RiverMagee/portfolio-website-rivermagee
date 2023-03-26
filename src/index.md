@@ -1,20 +1,20 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "WE WORK HARD, WE PLAY HARD"
+  subTitle: "HI, MY NAME IS"
   title:
-    firstPara: "We’re a Design Studio"
-    secondPara: "That Believes In Great Ideas"
+    firstPara: "River Magee"
+    secondPara: "Lets work together!"
   seeWorkBtn:
-    text: "See Our Works"
+    text: "My Projects"
     link: "#project"
   connectBtn: 
-    text: "Connect with us"
+    text: "Connect with me"
     link: "contact"
 
 portfolio:
-  subTitle: "OUR RECENT WORKS"
-  title: "Crafting experiences and seeking to make the complex clear & beautiful."
+  subTitle: "MY RECENT PROJECTS"
+  title: "Here are some examples of personal and professional projects I have worked on / collaborated with."
   seeAllbtn:
     link: "portfolio"
     text: "MORE WORKS"
