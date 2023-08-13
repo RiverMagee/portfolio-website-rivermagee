@@ -4,7 +4,7 @@
 <svg height="150%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="150%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs/>
 <clipPath id="ArtboardFrame">
-<rect height="1024" width="1024" x="0" y="0"/>
+<rect height="1500" width="1500" x="0" y="0"/>
 </clipPath>
 <g clip-path="url(#ArtboardFrame)" id="Layer-1" vectornator:layerName="Layer 1">
 <path d="M0 0L1024 0L1024 1024L0 1024L0 0Z" fill="#fecb62" fill-rule="nonzero" opacity="1" stroke="#2b2b45" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Rectangle 1"/>
