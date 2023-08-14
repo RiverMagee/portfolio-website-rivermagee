@@ -19,17 +19,17 @@
     {
       "name": "Software Development with Python",
       "dig": "Micro-Credential Program",
-      "img": "/assets/images/team/book-icon.jpg"
+      "img": "/assets/images/team/certification-icon.svg"
     },
     {
       "name": "Data Analysis with Python and R",
       "dig": "Micro-Credential Program",
-      "img": "/assets/images/team/book-icon.jpg"
+      "img": "/assets/images/team/certification-icon.svg"
     },
     {
       "name": "Programming with Web Technologies",
       "dig": "Micro-Credential Program",
-      "img": "/assets/images/team/book-icon.jpg"
+      "img": "/assets/images/team/certification-icon.svg"
     }
   ]
 }
