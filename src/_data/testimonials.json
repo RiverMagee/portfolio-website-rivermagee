@@ -3,6 +3,18 @@
   "des": "A brief overview of my professional history.",
   "opinion":[
     {
+      "name": "Sonder Partners",
+      "dig": "Technology Assistant, May 2024 - Present",
+      "img": "/assets/images/testimonial/Sonder-Partner-S-Logo.svg",
+      "comment": "Develop and manage company web presence within Wordpress’s Elementor web builder, along with programming in HTML, CSS, PHP, and JavaScript. Digitally design infographics using knowledge of company branding practices and visual objectives. Rebranded company web-presence, formerly known as Goose Rocks Wealth Management."
+    },
+    {
+      "name": "Richter + Ratner",
+      "dig": "Marketing Intern, May 2024 - Present",
+      "img": "/assets/images/testimonial/richter_ratner_logo.jpeg",
+      "comment": "Work with the Marketing Team to implement systemwide CRM workflows. Research capital funding opportunities and relevant RFPs within the construction industry. Developed and managed company web presence within Wordpress’s Elementor web builder for mobile functionality, along with programming in HTML, CSS, PHP, and JavaScript."
+    },
+    {
       "name": "The Lee Strasberg Theatre and Film Institute",
       "dig": "Intern, January - May 2022",
       "img": "/assets/images/testimonial/Lee-Strasberg-Logo.jpg",
